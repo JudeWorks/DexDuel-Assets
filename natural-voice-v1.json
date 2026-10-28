@@ -1,0 +1,25 @@
+{
+  "version": "natural-voice-v1",
+  "files": [
+    {
+      "name": "kokoro-82m-v1.0-dexduel.onnx",
+      "bytes": 110663410,
+      "sha256": "f28e1a64e9c4dc3d1afd797ec69a53613fe4977cf84f55360bea2b09e7e43f4f"
+    },
+    {
+      "name": "af_heart.bin",
+      "bytes": 522240,
+      "sha256": "d583ccff3cdca2f7fae535cb998ac07e9fcb90f09737b9a41fa2734ec44a8f0b"
+    },
+    {
+      "name": "kokoro-lexicon-us.tsv",
+      "bytes": 4980995,
+      "sha256": "23e733f0ff35b59c3e35a1e228c9eeb8f429c87e7c91950cdbb23441b5637e13"
+    },
+    {
+      "name": "kokoro-callouts.bin",
+      "bytes": 9464207,
+      "sha256": "2be70eb7ff30ca9c4a0bbcb6697ac48d5f949553356099ea6dccbcf98a9155e9"
+    }
+  ]
+}
